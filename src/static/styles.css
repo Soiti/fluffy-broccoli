@@ -81,6 +81,11 @@ section h3 {
   color: #555;
 }
 
+.activity-card ul li {
+  margin-bottom: 5px; /* 各参加者の間にスペースを追加 */
+  font-size: 14px; /* フォントサイズを調整 */
+}
+
 .form-group {
   margin-bottom: 15px;
 }
